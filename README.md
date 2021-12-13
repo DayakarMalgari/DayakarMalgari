@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DayakarMalgari
-- 👀 I’m interested in computer vision and deep learning related stuff...
-- 🌱 I’m currently learning computer vision and deep learning...
-- 💞️ I’m looking to collaborate on the above mentioned fields...
-- 📫 How to reach me Email: dayakarmalgari@outlook.com, Pho. 9550985152...
+- 👋 Hi, I’m @DayakarMalgari,
+- 👀 interested in application development using Python/Django, Java, C/C++, computer vision and deep learning. 
+- 🌱 I’ve recently acquired these skills and 
+- 💞️ looking to collaborate on these areas.
+- 📫 You can reach me at Email: dayakarmalgari@outlook.com, Pho. 9550985152.
 
 
 
